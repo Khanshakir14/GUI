@@ -9,7 +9,7 @@ public class FirstApp extends Frame
     
     public FirstApp()
     {
-        super("My App");
+        super("My App");   //super class is calling the constructor of frame class and giving the string as My app
         
         setLayout(new FlowLayout());
         
